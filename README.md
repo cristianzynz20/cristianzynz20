@@ -1,106 +1,103 @@
 <div align="center">
 
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Angel%20Cristian%20Macedo&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20Backend&descAlignY=55&descSize=18&descColor=a8b2d8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff41&height=200&section=header&text=Angel%20Cristian%20Macedo&fontSize=38&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=>_%20Software%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20Backend&descAlignY=56&descSize=17&descColor=39ff14" />
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=650&lines=👋+Hola%2C+soy+Cristian!;💻+Desarrollo+Web+%2B+Mobile+%2B+Backend;🚀+Android+%7C+Flutter+%7C+React+%7C+Angular;🌱+Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40cristian%3A~%24+whoami;>+Angel+Cristian+Macedo+Canayo+🇵🇪;root%40cristian%3A~%24+skills+--list;>+Android+%7C+Flutter+%7C+React+%7C+Angular;>+FastAPI+%7C+Express+%7C+MySQL+%7C+PostgreSQL;root%40cristian%3A~%24+status;>+Always+learning...+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 💻 `> whoami`
 
-```python
-cristian = {
-    "nombre":       "Angel Cristian Macedo Canayo",
-    "usuario":      "cristianzynz20",
-    "ubicación":    "Pucallpa, Perú 🇵🇪",
-    "instituto":    "Estudiante de Desarrollo de Software",
-    "habilidades":  ["Responsable", "Trabajo en equipo"],
-    "enfoque":      ["Web Full Stack", "Mobile (Android + Flutter)", "Backend APIs"],
-    "proyectos":    ["CrisTech145", "FoodIA"],
-    "objetivo":     "Crecer como desarrollador y construir proyectos de impacto",
-    "estado":       "🔥 Siempre abierto a colaborar"
-}
+```bash
+┌──(cristian㉿pucallpa)-[~]
+└─$ cat about_me.txt
+
+  Nombre    : Angel Cristian Macedo Canayo
+  Usuario   : cristianzynz20
+  Ubicación : Pucallpa, Perú 🇵🇪
+  Rol       : Estudiante de Desarrollo de Software
+  Skills    : Responsable | Trabajo en equipo
+  Enfoque   : Web Full Stack + Mobile + Backend APIs
+  Estado    : > Siempre abierto a colaborar 🟢
 ```
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ `> skills --all`
 
 <div align="center">
 
-### 💬 Lenguajes
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e94560)
-![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=for-the-badge&logo=dart&logoColor=e94560)
-![Kotlin](https://img.shields.io/badge/Kotlin-1a1a2e?style=for-the-badge&logo=kotlin&logoColor=e94560)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=e94560)
+### `# Lenguajes`
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00ff41)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=e94560)
-![Angular](https://img.shields.io/badge/Angular-1a1a2e?style=for-the-badge&logo=angular&logoColor=e94560)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=e94560)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=e94560)
+### `# Frontend`
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=00ff41)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
 
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=e94560)
-![Express](https://img.shields.io/badge/Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=e94560)
+### `# Backend`
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00ff41)
 
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-1a1a2e?style=for-the-badge&logo=android&logoColor=e94560)
-![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=e94560)
+### `# Mobile`
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=00ff41)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff41)
 
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=e94560)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=e94560)
+### `# Bases de Datos`
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)
 
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visual-studio-code&logoColor=e94560)
+### `# Herramientas`
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00ff41)
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 `> git stats --user cristianzynz20`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianzynz20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianzynz20&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=00ff41"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianzynz20&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=a8b2d8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianzynz20&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cristianzynz20&theme=tokyonight&hide_border=true&background=1A1A2E&ring=E94560&fire=E94560&currStreakLabel=A8B2D8)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-[![CrisTech145](https://github-readme-stats.vercel.app/api/pin/?username=cristianzynz20&repo=CrisTech145&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8)](https://github.com/cristianzynz20/CrisTech145)
-[![FoodIA](https://github-readme-stats.vercel.app/api/pin/?username=cristianzynz20&repo=FoodIA&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8)](https://github.com/cristianzynz20/FoodIA)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cristianzynz20&theme=terminal&hide_border=true&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=39ff14&sideNums=00ff41)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🚀 `> ls projects/`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-cristianzynz20-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)](https://github.com/cristianzynz20)
-[![Email](https://img.shields.io/badge/Email-Contáctame-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:tucorreo@gmail.com)
+[![CrisTech145](https://github-readme-stats.vercel.app/api/pin/?username=cristianzynz20&repo=CrisTech145&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=00ff41)](https://github.com/cristianzynz20/CrisTech145)
+[![FoodIA](https://github-readme-stats.vercel.app/api/pin/?username=cristianzynz20&repo=FoodIA&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=00ff41)](https://github.com/cristianzynz20/FoodIA)
+
+</div>
+
+---
+
+## 🌐 `> contact --connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-cristianzynz20-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/cristianzynz20)
+[![Email](https://img.shields.io/badge/Email-Contáctame-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:tucorreo@gmail.com)
 
 </div>
 
@@ -108,8 +105,12 @@ cristian = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=cristianzynz20&color=e94560&style=flat-square&label=Visitas+al+perfil)
+![Visitor Count](https://komarev.com/ghpvc/?username=cristianzynz20&color=00ff41&style=flat-square&label=>_+Visitas+al+perfil)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
+```bash
+> Thanks for visiting! Keep coding... 🟢
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=120&section=footer"/>
 
 </div>
