@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Angel%20Cristian%20Macedo&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%7C%20JavaScript&descAlignY=55&descSize=18&descColor=a8b2d8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Angel%20Cristian%20Macedo&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20Backend&descAlignY=55&descSize=18&descColor=a8b2d8" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=👋+Hola%2C+soy+Cristian!;💻+Estudiante+de+Desarrollo+de+Software;🚀+Apasionado+por+la+programación;🌱+Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=650&lines=👋+Hola%2C+soy+Cristian!;💻+Desarrollo+Web+%2B+Mobile+%2B+Backend;🚀+Android+%7C+Flutter+%7C+React+%7C+Angular;🌱+Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,31 +14,51 @@
 
 ```python
 cristian = {
-    "nombre":     "Angel Cristian Macedo Canayo",
-    "usuario":    "cristianzynz20",
-    "ubicación":  "Pucallpa, Perú 🇵🇪",
-    "instituto":  "Estudiante de Desarrollo de Software",
-    "lenguajes":  ["Python", "JavaScript", "HTML", "CSS"],
-    "proyectos":  ["CrisTech145", "FoodIA"],
-    "objetivo":   "Crecer como desarrollador y construir proyectos de impacto",
-    "estado":     "🔥 Siempre abierto a colaborar"
+    "nombre":       "Angel Cristian Macedo Canayo",
+    "usuario":      "cristianzynz20",
+    "ubicación":    "Pucallpa, Perú 🇵🇪",
+    "instituto":    "Estudiante de Desarrollo de Software",
+    "habilidades":  ["Responsable", "Trabajo en equipo"],
+    "enfoque":      ["Web Full Stack", "Mobile (Android + Flutter)", "Backend APIs"],
+    "proyectos":    ["CrisTech145", "FoodIA"],
+    "objetivo":     "Crecer como desarrollador y construir proyectos de impacto",
+    "estado":       "🔥 Siempre abierto a colaborar"
 }
 ```
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-### Lenguajes
+### 💬 Lenguajes
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e94560)
+![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=for-the-badge&logo=dart&logoColor=e94560)
+![Kotlin](https://img.shields.io/badge/Kotlin-1a1a2e?style=for-the-badge&logo=kotlin&logoColor=e94560)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=e94560)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=e94560)
+![Angular](https://img.shields.io/badge/Angular-1a1a2e?style=for-the-badge&logo=angular&logoColor=e94560)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=e94560)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=e94560)
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=e94560)
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=e94560)
+![Express](https://img.shields.io/badge/Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=e94560)
+
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-1a1a2e?style=for-the-badge&logo=android&logoColor=e94560)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=e94560)
+
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=e94560)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=e94560)
+
+### 🔧 Herramientas
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visual-studio-code&logoColor=e94560)
 
